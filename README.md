@@ -1,15 +1,13 @@
 ## Welcome to ROBOESPAS results Pages
 
-```You can use the [editor on GitHub](https://github.com/ajardon/roboespas/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+```You can use the [editor on GitHub](https://github.com/ajardon/roboespas/edit/master/README.md) to maintain and preview the content for your website in Markdown files.```
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-```
-### Aqui los nombres de los miembros
+```Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.```
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+```### Aqui los nombres de los miembros```
 
-```markdown
-Syntax highlighted code block
+```Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for markdown
+```Syntax highlighted code block
 
 # Header 1
 ## Header 2
@@ -22,6 +20,7 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
+```
 
 #**ROBOESPAS
 
@@ -53,9 +52,9 @@ Acrónimo: ROBOESPAS
 
 - Fecha de inicio/fin: 01/2018-12/2020
 
-[Link](url) and ![Image](src)
+```[Link](url) and ![Image](src)
 ```
-
+```
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes

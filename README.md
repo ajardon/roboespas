@@ -1,6 +1,6 @@
 ## Welcome to ROBOESPAS results Pages
 
-**ROBOESPAS
+#**ROBOESPAS**
 
 ##Active rehabilitation of patients with upper limb spasticity using collaborative robots**
 
@@ -9,6 +9,7 @@ founded by: **MINISTERIO DE ECONOMIA, INDUSTRIA Y COMPETITIVIDAD, Programa Estat
 ##Información Proyecto
 
 ###Título: **Modelado, evaluación y rehabilitación de enfermos con espasticidad de extremidades superiores mediante robots colaborativos**
+
 Title: Active rehabilitation of patients with upper limb spasticity using collaborative robots
 Acrónimo: ROBOESPAS
 
@@ -23,15 +24,5 @@ Acrónimo: ROBOESPAS
 
 - Fecha de inicio/fin: 01/2018-12/2020
 
-```[Link](url) and ![Image](src)
-```
-```
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[Link to Uc3m-RoboticsLab Web](http://roboticslab.uc3m.es/roboticslab/project/roboespas) and ![Image](src)
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ajardon/roboespas/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

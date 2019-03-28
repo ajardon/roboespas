@@ -24,5 +24,5 @@ Acrónimo: ROBOESPAS
 
 - Fecha de inicio/fin: 01/2018-12/2020
 
-[Link to Uc3m-RoboticsLab Web](http://roboticslab.uc3m.es/roboticslab/project/roboespas) and ![Image](src)
+[Link to Uc3m-RoboticsLab Web](http://roboticslab.uc3m.es/roboticslab/project/roboespas) and ![Image](https://github.com/ajardon/roboespas/blob/master/IMG-20181002-WA0021.jpg)
 
